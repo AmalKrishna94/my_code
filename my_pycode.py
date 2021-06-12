@@ -9,7 +9,7 @@ def my_function(a, b):
         return True
     else:
         print("{0} is equal to {1}".format(a, b))
-        return False
+        return True
 
 
 my_function(12, 12)
